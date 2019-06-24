@@ -1,6 +1,8 @@
 
 public class MyClass {
 	public int sno;
+	
+	private String bname;
 	public int getSno() {
 		return sno;
 	}
