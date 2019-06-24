@@ -1,7 +1,7 @@
 
 public class MyClass {
 	public int sno;
-	private String sname;
+
 	public int getSno() {
 		return sno;
 	}
